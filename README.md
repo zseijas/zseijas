@@ -8,8 +8,8 @@
 
 ## My GitHub Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zseijas&show_icons=true&hide=issues,contribs)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zseijas)](https://github.com/anuraghazra/github-readme-stats)
+<!--![github stats](https://github-readme-stats.vercel.app/api?username=zseijas&show_icons=true&hide=issues,contribs)-->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zseijas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
