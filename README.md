@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Zaid Seijas
 - 👀 I’m Full stack developer
-- 🌱 I’m currently learning Laravel Livewire...
+- 🌱 I’m currently learning AdonisJS...
 - 💞️ I love develop on VueJS and Laravel...
 - 📫 How to reach me: [Telegram](https://t.me/zaidseijas)
 
@@ -9,6 +9,7 @@
 ## My GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zseijas&show_icons=true&hide=issues,contribs)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zseijas)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
