@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Zaid Seijas
+# 👋 Hi, I’m Zaid Seijas Borges
 - 👀 I’m Full stack developer
-- 🌱 I’m currently learning Docker and Flutter...
-- 💞️ I love develop on VueJS and Laravel...
+- 🌱 I’m currently learning Docker and Nuxt
+- 💞️ I love develop on VueJS and Laravel with Postgres, MySQL or Firebase...
 - 📫 How to reach me: [Telegram](https://t.me/zaidseijas)
 
 <br>
