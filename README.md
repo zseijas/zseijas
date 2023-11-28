@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Zaid Seijas Borges
 - 👀 I’m Full stack developer
 - 🌱 I’m currently learning Angular v17.
-- 💞️ I love develop on VueJS and Laravel with Postgres, MySQL or Firebase...
+- 💞️ I love develop on VueJS, Angular and Laravel, with Postgres, MySQL or Firebase!
 - 📫 How to reach me: [Telegram](https://t.me/zaidseijas)
 
 <br>
